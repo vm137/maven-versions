@@ -17,7 +17,7 @@
     <name>test</name>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/my-org/my-project.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/vm137/maven-versions.git</developerConnection>
     </scm>
 
     <build>
